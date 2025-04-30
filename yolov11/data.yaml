@@ -1,0 +1,5 @@
+train: ../Dataset/images/train
+val: ../Dataset/images/val
+
+nc: 2  
+names: ["g", "n"]
