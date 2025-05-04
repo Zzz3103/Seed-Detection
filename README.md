@@ -15,5 +15,5 @@ tqdm
 streamlit
 ultralytics
 
-# RunningRunning
+# Running
 streamlit run app.py
