@@ -4,6 +4,7 @@ Using pretrained YOLOv11 (Ultralytics) and from-scratch YOLOv3 to detect germina
 
 # Requirements
 
+```text
 torch
 torchvision
 albumentations
